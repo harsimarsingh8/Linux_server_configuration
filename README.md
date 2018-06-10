@@ -3,20 +3,27 @@
 > Harsimar Singh
 
 -----------------------------------------------------------
-## About
+
+* The live streaming of [project](13.232.77.118).
+* Project can be viewed at my [Github Repository](https://github.com/harsimarsingh8/Linux_server_configuration).
+
+------------------------------------------------------------
+# About
 
 This is the sixth project for the Udacity Full Stack Nanodegree and involves how to access, secure, and perform the initial configuration of a bare-bones Linux server by a  baseline installation of a Linux distribution on a virtual machine and prepare it to host web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers.
 
 
-### Why this Project?
+# Why this Project?
+
 >A deep understanding of exactly what web applications are doing, how they are hosted, and the interactions between multiple systems are. This project, turns a brand-new, bare bones, Linux server into the secure and efficient web application host that a Data Driven Web Applications Needs. In short it includes all the steps that are required to be a full stack developer.
 
 # Server details for hosting applications
 
 - **Public IP:** 13.232.77.118
 - **Port:** 2200
-#### Live streaming of project: [Restaurant_Item_App](http://13.232.77.118/)
-# - In this we will be configuring a linux server
+- Live streaming of project: [Restaurant_Item_App](http://13.232.77.118/)
+
+# In this we will be configuring a linux server
 
 # Setting up
 
